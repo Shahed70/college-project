@@ -251,16 +251,12 @@ h1 span, h2 span, h3 span, h4 span, h5 span, h6 span { color: #919303; }
     padding-bottom: 5px;
 }
 
-/* ul.sub-menu.second-level {
-    margin-left: 15px !important;
-    margin-top: 28px !important;
-} */
 
 .sub-menu.second-level,.sub-menu.third-level{
     display: none !important;
-    /* margin-left: 15px !important; */
+    
     margin-top: 27px !important;
-    /* z-index: -10 !important; */
+    
 }
 
 .sub-menu.first-level li:hover .sub-menu.second-level{
